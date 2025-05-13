@@ -1,0 +1,32 @@
+name: flood
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_animate: ^4.5.0
+  syncfusion_flutter_gauges: ^24.2.6
+  teledart: ^0.6.1
+  http: ^1.1.0
+
+  # Latest stable Firebase packages for Flutter 3.x/Dart 3.x
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  firebase_database: ^10.3.8
+  cloud_firestore: ^4.13.6
+  google_sign_in: ^6.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

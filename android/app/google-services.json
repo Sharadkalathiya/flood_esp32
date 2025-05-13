@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "24516846434",
+    "firebase_url": "https://flood-esp-default-rtdb.firebaseio.com",
+    "project_id": "flood-esp",
+    "storage_bucket": "flood-esp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24516846434:android:16d36df47dcc16ca45c23b",
+        "android_client_info": {
+          "package_name": "com.example.flood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24516846434-7g0ehlfkd5m40he3itg5b6qta2l67k5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6awKc4A6toK1EYNBANrJ-wTMMcrxJ7gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24516846434-7g0ehlfkd5m40he3itg5b6qta2l67k5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24516846434:android:217e8c0a0921bd5745c23b",
+        "android_client_info": {
+          "package_name": "com.example.flood_esp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24516846434-7g0ehlfkd5m40he3itg5b6qta2l67k5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6awKc4A6toK1EYNBANrJ-wTMMcrxJ7gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24516846434-7g0ehlfkd5m40he3itg5b6qta2l67k5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
